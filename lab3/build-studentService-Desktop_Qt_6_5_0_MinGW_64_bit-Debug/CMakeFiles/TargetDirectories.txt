@@ -1,0 +1,9 @@
+C:/forUni/mispOld/lab3/build-studentService-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/studentService.dir
+C:/forUni/mispOld/lab3/build-studentService-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/forUni/mispOld/lab3/build-studentService-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/forUni/mispOld/lab3/build-studentService-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/forUni/mispOld/lab3/build-studentService-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/forUni/mispOld/lab3/build-studentService-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/forUni/mispOld/lab3/build-studentService-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/forUni/mispOld/lab3/build-studentService-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/studentService_autogen_timestamp_deps.dir
+C:/forUni/mispOld/lab3/build-studentService-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/studentService_autogen.dir
